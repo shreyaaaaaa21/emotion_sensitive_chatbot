@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Emotion Sensitive Chatbot</title>
+  
 </head>
 <body>
   <h1>Emotion Sensitive Chatbot</h1>
 
-  <p><strong>Author:</strong> [Your Name]</p>
+  
   <p><strong>Repository:</strong> <a href="https://github.com/your-username/emotion-sensitive-chatbot">GitHub Link</a></p>
 
   <h2>🔍 Overview</h2>
